@@ -1,1 +1,1 @@
-worker: node main.go
+worker: node \serverstatus\serverstatus.go
